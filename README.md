@@ -52,11 +52,16 @@ Example Output
 When executed successfully, it will display results in the following format:
 
 ```
-ID: 123
-Timestamp: 2023-10-05T12:34:56Z
-Source IP: 192.168.0.1
-Source Port: 8080
-Destination Port: 80
-Data: Sample data
+      _______                    _______ __           ____ __         __
+     |     __|.----.---.-.----- |_     _|  |--.-----.|    |  |.-----.|  |_
+     |__     ||  __|  _  |     |  |   | |     |  -__||       ||  -__||   _|
+     |_______||____|___._|__|__|  |___| |__|__|_____||__|____||_____||____|
+
+ID: "5702635"
+Timestamp: "2024-11-17 09:26:45"
+Source IP: "51.91.110.49"
+Source Port: "41756"
+Destination Port: "22"
+Data: "Flags [S], seq 2981374044, win 29200, options [mss 1400,sackOK,TS val 1400581321 ecr 0,nop,wscale 7], length 0"
 ----------
 ```
