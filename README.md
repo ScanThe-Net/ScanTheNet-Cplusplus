@@ -28,7 +28,7 @@ Clone the Repository
 
 ```
 git clone https://github.com/ScanThe-Net/ScanTheNet-Cplusplus.git
-cd ScanTheNet-Cplusplus
+cd ScanTheNet-Cplusplus/ScanTheNet
 ```
 
 Compile
